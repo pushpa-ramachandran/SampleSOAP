@@ -1,0 +1,5 @@
+C:\Fall2014\Fall2014Using\CSE445\week8\MathService\MathService\bin\MathService.dll.config
+C:\Fall2014\Fall2014Using\CSE445\week8\MathService\MathService\bin\MathService.dll
+C:\Fall2014\Fall2014Using\CSE445\week8\MathService\MathService\bin\MathService.pdb
+C:\Fall2014\Fall2014Using\CSE445\week8\MathService\MathService\obj\Release\MathService.dll
+C:\Fall2014\Fall2014Using\CSE445\week8\MathService\MathService\obj\Release\MathService.pdb
