@@ -1,4 +1,5 @@
 # SampleSOAP
-Demonstrates on how to create a simple SOAP service
+
+To demonstrate on how to create a simple SOAP service
 
 
